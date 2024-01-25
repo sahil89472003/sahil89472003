@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil89472003&label=Profile%20views&color=0e75b6&style=flat" alt="sahil89472003" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, MVC, ReactJS**
+- 🌱 I’m currently learning **MVC, ReactJS, .Net With Fullstack**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/47portfolio](https://bit.ly/47portfolio)
 
